@@ -7,7 +7,7 @@ To install
 ----------
 
 ```sh
-$ meteor add tsega:bootstrap3-datetimepicker
+$ meteor add steedos:bootstrap3-datetimepicker
 ```
 
 To use
